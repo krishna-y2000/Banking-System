@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+     integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <title>Current Customer</title>
+</head>
+<body>
+    <div class="container">
+    <h1><%= message %></h1> 
+    <p>Current Data : <%= accNo %> </p>
+    <p> Tranfer money to : </p>
+    <div id="form-submit">
+        <form method="post" action="/customer/transfer">
+            <div class="form-group">
+                <input type="number" name="myAc" required class="form-control" placeholder="My accountNo"></input>
+                <input type="number" name="OppositeAc" required class="form-control" placeholder="Opposite accountNo"></input>
+                <input type="number" name="amount" required class="form-control" placeholder="Enter Amount"></input>
+                <button type="submit" class="btn btn-success">Submit</button>
+            </div>
+        </form>
+    </div>
+    </div>
+
+</body>
+</html>

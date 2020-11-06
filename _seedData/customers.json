@@ -1,0 +1,92 @@
+[
+	{
+		"_id": "5d713995b721c3bb38c1f5d8",
+		"name": "Brynne Dickerson",
+		"email": "vitae@gmail.com",
+		"currentBalance": 32178,
+		"accountNo": 1013,
+		"age": 48,
+		"gender": "F"
+	},
+	{
+		"_id": "5d713a66ec8f2b88b8f830b8",
+		"name": "Kennedy Barron",
+		"email": "ipsum.Suspendisse.non@gmail.com",
+		"currentBalance": 41840,
+		"accountNo": 1015,
+		"age": 69,
+		"gender": "M"
+	},
+	{
+		"_id": "5f7393d26f1ecc2ef503e8b9",
+		"name": "Winifred Howe",
+		"email": "Nam@gmail.com",
+		"currentBalance": 62193,
+		"accountNo": 1016,
+		"age": 60,
+		"gender": "M"
+	},
+	{
+		"_id": "5f7393ead30b3f34b5f617b3",
+		"name": "Kane Gibson",
+		"email": "convallis@gmail.com",
+		"currentBalance": 89430,
+		"accountNo": 1017,
+		"age": 60,
+		"gender": "M"
+	},
+	{
+		"_id": "5f73943499a813dc7c61469c",
+		"name": "Shad Erickson",
+		"email": "Aenean@gmail.com",
+		"currentBalance": 67257,
+		"accountNo": 1012,
+		"age": 91,
+		"gender": "F"
+	},
+	{
+		"_id": "5f73942f4c2643c123047191",
+		"name": "Audra Reyes",
+		"email": "orci.Donec.nibh@gmail.com",
+		"currentBalance": 40400,
+		"accountNo": 1001,
+		"age": 53,
+		"gender": "M"
+	},
+	{
+		"_id": "5f73943a4fc6d18fc6f03a0c",
+		"name": "Lynn Cross",
+		"email": "Sed.et@gmail.com",
+		"currentBalance": 63451,
+		"accountNo": 1009,
+		"age": 58,
+		"gender": "M"
+	},
+	{
+		"_id": "5f739441183e8f6b931040a2",
+		"name": "Chanda Schroeder",
+		"email": "purus@gmail.com",
+		"currentBalance": 23285,
+		"accountNo": 1010,
+		"age": 28,
+		"gender": "M"
+	},
+	{
+		"_id": "5f739441183e8f6b931040a4",
+		"name": "Kieran Ford",
+		"email": "Donec.tempor@gmail.com",
+		"currentBalance": 20885,
+		"accountNo": 1002,
+		"age": 53,
+		"gender": "M"
+	},
+	{
+		"_id": "5f739441183e6f6b931040a2",
+		"name": "Tad Rivas",
+		"email": "lectus@gmail.com",
+		"currentBalance": 34594,
+		"accountNo": 1003,
+		"age": 44,
+		"gender": "M"
+    }
+]
