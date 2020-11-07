@@ -6,6 +6,7 @@ const db = require('../config/db');
 const transferDb = require('../models/transferDb'); 
 dotenv.config({path : '../config/config.env'});
 const Customers = require("../models/Customers");
+require('dotenv').config()
 db().then();
 const data = JSON.parse(fs.readFileSync("_seedData/customers.json", {encoding: 'utf-8'}));
 console.log(data);
